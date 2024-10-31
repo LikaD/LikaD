@@ -1,5 +1,5 @@
 - I’m @LikaD
-- I’m interested in gamedev, level desigh, 3d modeling
+- I’m interested in gamedev and level desigh
 
 lol
 
